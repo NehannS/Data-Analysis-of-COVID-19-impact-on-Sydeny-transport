@@ -1,0 +1,12 @@
+Breakdown of postcodes used in opal data...
+CBD = postcode 2000
+
+Parramatta = postcode 2150
+
+Chatswood = postcode 2067
+
+Macquarie Park = postcode areas 2113 and 2109
+
+North Sydney = postcode areas 2060 and 2061
+
+Strathfield =  postcode area 2135
